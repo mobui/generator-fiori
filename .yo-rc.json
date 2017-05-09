@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Sergey A. Chebotarev",
+      "authorEmail": "sachebotarev@mobui.ru",
+      "authorUrl": ""
+    }
+  }
+}
